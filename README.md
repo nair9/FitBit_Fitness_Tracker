@@ -1,4 +1,4 @@
-## Introdduction
+## Introduction
 
 Developed a comprehensive health analysis using health data, aiming to empower users with actionable insights to enhance their well-being and lifestyle choices. Dataset is extracted from Kaggle.
 
